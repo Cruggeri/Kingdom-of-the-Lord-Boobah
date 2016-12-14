@@ -1,0 +1,51 @@
+﻿user-row {
+    margin-bottom: 14px;
+}
+
+.user-row:last-child {
+    margin-bottom: 0;
+}
+
+.dropdown-user {
+    margin: 13px 0;
+    padding: 5px;
+    height: 100%;
+}
+
+.dropdown-user:hover {
+    cursor: pointer;
+}
+
+.table-user-information > tbody > tr {
+    border-top: 1px solid rgb(221, 221, 221);
+}
+
+.table-user-information > tbody > tr:first-child {
+    border-top: 0;
+}
+
+
+.table-user-information > tbody > tr > td {
+    border-top: 0;
+}
+.toppad
+{margin-top:20px;
+}
+
+body
+{
+    background-color:#CC3300;
+    color:#FFFFCC;
+}
+
+input[type="submit"],input[type=password],input[type=text],h3 #sellPanel
+{
+    color:#CC6600;
+    background-color:#663333;
+    
+}
+textarea, input[type=search], datalist 
+{    
+    color:#CC6600;
+    background-color:#333333;
+}

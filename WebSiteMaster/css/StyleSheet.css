@@ -1,0 +1,46 @@
+﻿#masterNav a
+{
+   min-width:100px;
+   padding-right: 2em;
+   padding-left: 2em;
+
+ 
+   
+}
+
+#masterNav ul li a
+{
+    margin-left:40px;
+    margin-right:40px;
+   padding:3em;
+   padding-right:4em;
+   padding-left:4em;
+   overflow:auto;
+
+   
+   display:block;
+   border:dashed 1px;
+   text-align:center;
+
+  
+   white-space:nowrap;
+   
+   
+
+}
+masterNav 
+{
+    display:flex;
+    border:solid;
+
+}
+
+
+
+#NMenu1
+{
+    width:100%;
+}
+
+body {
+}
